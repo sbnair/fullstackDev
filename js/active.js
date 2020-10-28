@@ -96,7 +96,7 @@
 
         // map script js
 
-        var myCenter = new google.maps.LatLng(23.810332, 90.412518);
+        var myCenter = new google.maps.LatLng(8.571621, 76.863467);
 
         function initialize() {
             var mapProp = {
